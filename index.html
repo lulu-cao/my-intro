@@ -4,34 +4,109 @@
 <head>
     <meta charset="UTF-8">
     <title>Lulu Cao</title>
+
+    <style>
+        /* Add background image */
+        body {
+            background-image: url("img2.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-color: white;
+        }
+        
+        /* Style "My Intro" */
+        h1 {
+            margin-bottom: 15px;
+            font-size: 70px;
+            color: lightgoldenrodyellow;
+            text-align: right;
+            text-decoration: underline;
+            background-color: black;
+        }
+
+        /* Style "Lulu Cao" */
+        h2 {
+            margin-top: 15px;
+            margin-bottom: 15px;
+            font-size: 50px;
+            text-align: right;
+        }
+
+        /* Style "Contact Info" */
+        h3 {
+            margin-top: 15px;
+            font-size: 25px;
+            text-align: right;
+            margin-bottom: 0%;
+        }
+
+        /* Align my photo */
+        #img {
+            text-align: right;
+        }
+
+        /* Style paragraphs */
+        p {
+            text-align: right;
+            font-size: 20px;
+        }
+
+        /* Shorten the space between "Contact Info" and listed items */
+        #p1 {
+            margin-bottom: 0%;
+        }
+
+        #p2 {
+            margin-top: 0%;
+        }
+
+        /* Style listed items */
+        ul {
+            text-align: right;
+            font-size: 18px;
+            list-style-position: inside;
+            margin-left: 800px;
+            margin-top: 0%;
+        }
+    </style>
 </head>
 
 <body>
+    <!-- Title: My Intro -->
     <header>
-        <h1>My Bio</h1>
+        <h1>My Intro</h1>
     </header>
 
+    <br> <br>
+
     <div>
+        <!-- Section 1 Lulu Cao -->
         <section>
             <h2>Lulu Cao</h2>
             
+            <div id="img">
             <img 
                 src=https://media-exp1.licdn.com/dms/image/C4E03AQHtIA0DA6cqEw/profile-displayphoto-shrink_200_200/0/1631935347884?e=1637798400&v=beta&t=cw_RFl1XeWBohSboddm4FFDu4zrACTIdnzl4bPqwzf8
                 alt="Lulu Cao"
-                width="200"
-                height="200"
+                width="170"
+                height="170"
             />
+            </div>
             
-            <p>Graduated from a master's program in philosophy; now pursuing to be a software engineer!</p>
+            <p id="p1"><strong>M.A. in Philosophy</strong></p> 
+            <p id="p2"><strong>Web Developer</strong></p>
         </section>
 
+        <br> <br>
+
+        <!-- Section 2 Contact Info -->
         <section>
-            <h2>Contact Info</h2>
+            <h3>Contact Info</h3>
             
             <ul>
-                <li><strong>Email: </strong><a href="mailto: lulu.cao.her@gmail.com">lulu.cao.her@gmail.com</a></li>
-                <li><strong>GitHub: </strong><a href="https://lulu-cao.github.io/my-intro/">lulu-cao.github.io/my-intro/</a></li>
-                <li><strong>Portfolio: </strong><a href="#">Coming Soon</a></li>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="https://lulu-cao.github.io/my-intro/">GitHub</a></li>
+                <li><a href="mailto: lulu.cao.her@gmail.com">Email</a></li>
             </ul>
         </section>
     </div>
