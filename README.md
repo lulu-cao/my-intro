@@ -1,6 +1,6 @@
-Hi, I'm Lulu 👋 
+### Hi, I'm Lulu 👋 
 
-✨ I am currently seeking employment opportunities! ✨
+✨ I am currently seeking employment opportunities. ✨
 
 🌱 I’m currently learning: back-end development.
 
