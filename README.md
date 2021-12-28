@@ -1,8 +1,8 @@
 ### Hi, I'm Lulu 👋 
 
-✨ I am currently seeking employment opportunities. ✨
+✨ I am currently seeking volunteer opportunities. ✨
 
-😄 I'm currently working on: website for my ethics class.
+😄 I'm currently working on: website for my ethics class and my startup.
 
 🌱 I’m currently learning: back-end development.
 
