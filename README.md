@@ -2,7 +2,7 @@
 
 ✨ I am currently seeking volunteer opportunities. ✨
 
-😄 I'm currently working on: website for my ethics class and my startup.
+😄 I'm currently working on: websites for my ethics class and my startup.
 
 🌱 I’m currently learning: back-end development.
 
