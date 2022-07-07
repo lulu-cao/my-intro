@@ -1,10 +1,10 @@
 ### Hi, I'm Lulu 👋 
 
-✨ I am currently seeking volunteer opportunities. ✨
+✨ I am currently seeking job opportunities. ✨
 
-😄 I'm currently working on: websites for my ethics class and my startup.
+😄 I'm currently working on: [Symposia](https://www.projectsymposia.com/) (a startup website) and [TrashTracker](https://github.com/codeforkansascity/TrashTrackerSMSApp) (a volunteer project).
 
-🌱 I’m currently learning: back-end development.
+🌱 I’m currently learning: React, Ruby on Rails, Express.
 
 👯 I’m looking to collaborate on: anything!
 
