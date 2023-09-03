@@ -1,9 +1,11 @@
 name: Update Recent Blog Posts
 
-on:
-  schedule:
-    - cron: '0 */1 * * *' # Runs every 1 hour
-  workflow_dispatch:
+on: [push]
+
+# on:
+#   schedule:
+#     - cron: '0 */1 * * *' # Runs every 1 hour
+#   workflow_dispatch:
 
 jobs:
   update_posts:
