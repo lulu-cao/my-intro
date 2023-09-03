@@ -6,10 +6,14 @@
 
 🍀 I'm volunteering as Curriculum Director for Kansas City Women in Technology, developing HTML, CSS, JavaScript curricula for aspiring non-binary developers.
 
-⚡ Fun fact: I studied philosophy for three years and had a startup for a social media platform - [Symposia](https://www.projectsymposia.com/).
+⚡ Fun fact: I studied philosophy for three years and co-founded a startup for a social media platform - [Symposia](https://www.projectsymposia.com/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulu-cao&layout=compact)](https://github.com/lulu-cao/github-readme-stats)
 
 ### Recent blog posts
 
 🕙 Coming soon
+
+### Some Interesting Blog Posts
+<!--posts:start-->
+<!--posts:end-->

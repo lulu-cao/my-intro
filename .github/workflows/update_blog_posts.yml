@@ -2,7 +2,7 @@ name: Update Recent Blog Posts
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Run once a week at 00:00 (midnight) on Sunday
+    - cron: '0 */1 * * *' # Runs every 1 hour
   workflow_dispatch:
 
 jobs:
