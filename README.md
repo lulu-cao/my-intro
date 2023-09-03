@@ -10,10 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulu-cao&layout=compact)](https://github.com/lulu-cao/github-readme-stats)
 
-### Recent blog posts
-
-🕙 Coming soon
-
 ### Some Interesting Blog Posts
 <!--posts:start-->
 <!--posts:end-->
+
+### Recent blog posts
