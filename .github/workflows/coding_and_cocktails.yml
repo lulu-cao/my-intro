@@ -1,0 +1,31 @@
+name: Coding and Cocktails workflow
+
+on: 
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  make_cocktails:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Add Ice
+      run: echo “Add ice to the mixing glass or cocktail shaker”
+      shell: bash
+
+    - name: Mix Ingredients
+      run: echo “Mix the ingredients”
+      shell: bash
+
+    - name: Poor Ingredients
+      run: echo “Poor the mixed ingredients into the cocktail serving glass”
+      shell: bash
+
+    - name: Add Garnish
+      run: echo “Add the garnish to the serving glass”
+      shell: bash
