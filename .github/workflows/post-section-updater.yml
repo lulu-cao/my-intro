@@ -1,9 +1,9 @@
 name: RESTful Post Feed Updater
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   workflow_dispatch:
 
 # on:
