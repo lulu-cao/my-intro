@@ -11,7 +11,7 @@ on:
 #     - cron: '0 */1 * * *' # Runs every 1 hour
 
 jobs:
-  update_posts:
+  print_repo_info:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,18 +26,21 @@ jobs:
 
     - name: Print repo
       run: echo ${{ github.repository }}
+
+    - name: Print issue
+      run: echo ${{ github.event.issue.number }}
+
+    - name: Print issue with env
+      run: echo ${{ github.event.issue.number }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Print issue
-      run: echo ${{ toJSON(github.event.issue) }}
-
-    - name: Print issue with env
-      run: echo ${{ toJSON(github.event.issue) }}
+    - name: Print issue with env without number
+      run: echo ${{ github.event.issue }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Print event
-      run: echo ${{ toJSON(github.event) }}
+      run: echo '${{ toJSON(github.event) }}' | jq
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
