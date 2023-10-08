@@ -15,16 +15,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Echo
+      run: >
+        echo "This is a super long string that is not easily readable
+        within one line so I separate it into two lines"
+
+
     - name: Check out repository
       uses: actions/checkout@v2
 
     - name: Print repo
       run: echo ${{ github.repository }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Print issue
-      run: echo ${{github.event.issue}}
+      run: echo ${{ toJSON(github.event.issue) }}
+
+    - name: Print issue with env
+      run: echo ${{ toJSON(github.event.issue) }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Print event
-      run: echo ${{github.event}}
+      run: echo ${{ toJSON(github.event) }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
