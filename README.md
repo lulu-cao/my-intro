@@ -15,3 +15,6 @@
 <!--posts:end-->
 
 <!-- ### Recent blog posts -->
+
+{{IMAGE_URL}}
+{{QUOTE}}
