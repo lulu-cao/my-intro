@@ -1,0 +1,32 @@
+name: Update GitHub Profile Quote
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update_profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Random Quote
+        id: fetch-quote
+        run: |
+          QUOTE=$(curl -s https://api.quotable.io/random | jq -r '.content')
+          echo "::set-output name=quote::$QUOTE"
+        shell: bash
+
+      - name: Update Profile README
+        run: |
+          # Replace the placeholder with the fetched quote
+          sed -i "s|{{QUOTE}}|${{ steps.fetch-quote.outputs.quote }}|" README.md
+          git config --global user.name "Your Name"
+          git config --global user.email "youremail@example.com"
+          git add README.md
+          git commit -m "Update profile README with a random quote"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

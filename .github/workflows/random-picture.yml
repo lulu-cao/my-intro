@@ -1,0 +1,32 @@
+name: Update GitHub Profile Picture
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update_profile_picture:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Random Image
+        id: fetch-image
+        run: |
+          IMAGE_URL=$(curl -sL https://picsum.photos/200/300/?random)
+          echo "::set-output name=image_url::$IMAGE_URL"
+        shell: bash
+
+      - name: Update Profile README
+        run: |
+          # Replace the placeholder with the fetched image URL
+          sed -i "s|{{IMAGE_URL}}|${{ steps.fetch-image.outputs.image_url }}|" README.md
+          git config --global user.name "Your Name"
+          git config --global user.email "youremail@example.com"
+          git add README.md
+          git commit -m "Update profile README with a random picture"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
