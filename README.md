@@ -20,3 +20,4 @@ A quote a day keeps a therapist away:
 
 {{QUOTE}}Always seek out the seed of triumph in every adversity.
 Always seek out the seed of triumph in every adversity.
+Change your life today. Don't gamble on the future, act now, without delay.
