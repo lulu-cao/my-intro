@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-on:
   schedule:
     - cron: '0 */6 * * *' # Runs every 6 hours
     # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#scheduled-events

@@ -22,7 +22,7 @@ jobs:
       - name: Update Profile README
         run: |
           # Append the fetched quote
-          echo "${{ steps.fetch-quote.outputs.quote }}" >> README.md
+          echo "${{ steps.fetch-quote.outputs.quote }}\n" >> README.md
           git config --global user.name "Your Name"
           git config --global user.email "youremail@example.com"
           git add README.md
