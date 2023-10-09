@@ -23,3 +23,4 @@ Wise kings generally have wise counselors; and he must be a wise man himself who
 The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
 
 <img src="https://picsum.photos/200/300/?random" alt="Random Image">
+<img src="https://picsum.photos/200/300/?random" alt="Random Image">
