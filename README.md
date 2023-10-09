@@ -15,3 +15,4 @@
 <!--posts:end-->
 
 <!-- ### Recent blog posts -->
+<img src="https://picsum.photos/200/300/?random" alt="Random Image">
