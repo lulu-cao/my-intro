@@ -20,3 +20,5 @@ My quote collection:
 
 
 Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.\n
+The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
+
