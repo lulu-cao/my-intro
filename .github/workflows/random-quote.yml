@@ -21,8 +21,7 @@ jobs:
 
       - name: Update Profile README
         run: |
-          # Add the fetched quote after the placeholder
-          sed -i "s|{{QUOTE}}|{{QUOTE}}${{ steps.fetch-quote.outputs.quote }}|" README.md
+          # Append the fetched quote
           echo "${{ steps.fetch-quote.outputs.quote }}" >> README.md
           git config --global user.name "Your Name"
           git config --global user.email "youremail@example.com"
