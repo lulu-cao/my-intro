@@ -17,4 +17,5 @@
 <!-- ### Recent blog posts -->
 
 {{IMAGE_URL}}
+
 Meetings are indispensable when you don't want to do anything.

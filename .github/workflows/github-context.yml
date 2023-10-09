@@ -11,6 +11,8 @@ on:
 # on:
 #   schedule:
 #     - cron: '0 */1 * * *' # Runs every 1 hour
+#     - cron: '0 */6 * * *' # Runs every 6 hours
+#     # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#scheduled-events
 
 jobs:
   print_github_context:
@@ -20,18 +22,16 @@ jobs:
     - name: Check out repository
       uses: actions/checkout@v2
 
-    - name: Print repo
+    - name: Print repo name
       run: echo ${{ github.repository }}
 
-    - name: Print issue
+    # this only works when the workflow is triggered by an issue
+    - name: Print number of issues
       run: echo ${{ github.event.issue.number }}
 
-    - name: Print issue with env
-      run: echo ${{ github.event.issue.number }}
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Print issue with env without number
+    # this only works when the workflow is triggered by an issue
+    - name: Print issue context
+      # jq is a JSON processor. Here, it formats JSON output, making it more human-readable.
       run: echo '${{ toJSON(github.event.issue) }}' | jq
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

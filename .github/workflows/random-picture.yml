@@ -16,13 +16,13 @@ jobs:
         id: fetch-image
         run: |
           IMAGE_URL=$(curl -sL https://picsum.photos/200/300/?random)
-          echo "IMAGE_URL=$IMAGE_URL" >> $GITHUB_ENV
+          echo "::set-output name=image_url::$IMAGE_URL"
         shell: bash
 
       - name: Update Profile README
         run: |
           # Replace the placeholder with the fetched image URL
-          sed -i "s|{{IMAGE_URL}}|${{ env.IMAGE_URL }}|" README.md
+          sed -i "s|{{IMAGE_URL}}|${{ steps.fetch-image.outputs.image_url }}|" README.md
           git config --global user.name "Your Name"
           git config --global user.email "youremail@example.com"
           git add README.md
