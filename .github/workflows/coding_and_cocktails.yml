@@ -1,4 +1,5 @@
 name: Coding and Cocktails workflow
+run-name: Make cocktails 🚀
 
 on:
   push:

@@ -1,10 +1,11 @@
-name: Update GitHub Profile Quote
+name: Add a Random Quote
+run-name: Add a Random Quote 🚀
 
 on:
   workflow_dispatch:
 
 jobs:
-  update_profile:
+  add_quote:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository

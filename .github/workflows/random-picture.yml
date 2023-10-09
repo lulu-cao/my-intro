@@ -1,13 +1,11 @@
-name: Update GitHub Profile Picture
+name: Add a Random Picture
+run-name: Add a Random Picture 🚀
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
-  update_profile_picture:
+  add_picture:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
