@@ -24,3 +24,5 @@ The attempt to combine wisdom and power has only rarely been successful and then
 
 <img src="https://picsum.photos/200/300/?random" alt="Random Image">
 <img src="https://picsum.photos/200/300/?random" alt="Random Image">
+Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.
+
