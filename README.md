@@ -28,3 +28,4 @@ Appreciation is the highest form of prayer, for it acknowledges the presence of 
 
 Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
 
+<img src="https://picsum.photos/200/300/?random" alt="Random Image">
