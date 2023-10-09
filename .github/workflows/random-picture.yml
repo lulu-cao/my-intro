@@ -21,8 +21,8 @@ jobs:
 
       - name: Update Profile README
         run: |
-          # Replace the placeholder with the fetched image URL
-          sed -i "s|{{IMAGE_URL}}|${{ steps.fetch-image.outputs.image_url }}|" README.md
+          # Append an <img> tag with the fetched image URL to the README
+          echo "<img src=\"${{ steps.fetch-image.outputs.image_url }}\" alt=\"Random Image\">" >> README.md
           git config --global user.name "Your Name"
           git config --global user.email "youremail@example.com"
           git add README.md
