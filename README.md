@@ -15,17 +15,3 @@
 <!--posts:end-->
 
 <!-- ### Recent blog posts -->
-
-My quote collection:
-
-
-Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.\n
-The attempt to combine wisdom and power has only rarely been successful and then only for a short while.
-
-<img src="https://picsum.photos/200/300/?random" alt="Random Image">
-<img src="https://picsum.photos/200/300/?random" alt="Random Image">
-Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts.
-
-Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.
-
-<img src="https://picsum.photos/200/300/?random" alt="Random Image">
