@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+    # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#scheduled-events
 
 jobs:
   update_profile_picture:
@@ -12,17 +16,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Fetch Random Image
-        id: fetch-image
-        run: |
-          IMAGE_URL=$(curl -sL https://picsum.photos/200/300/?random)
-          echo "::set-output name=image_url::$IMAGE_URL"
-        shell: bash
-
       - name: Update Profile README
         run: |
           # Append an <img> tag with the fetched image URL to the README
-          echo "<img src=\"${{ steps.fetch-image.outputs.image_url }}\" alt=\"Random Image\">" >> README.md
+          echo "<img src=\"https://picsum.photos/200/300/?random\" alt=\"Random Image\">" >> README.md
           git config --global user.name "Your Name"
           git config --global user.email "youremail@example.com"
           git add README.md
