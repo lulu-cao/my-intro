@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   update_profile_picture:
@@ -16,8 +17,8 @@ jobs:
         run: |
           # Append an <img> tag with the fetched image URL to the README
           echo "<img src=\"https://picsum.photos/200/300/?random\" alt=\"Random Image\">" >> README.md
-          git config --global user.name "Your Name"
-          git config --global user.email "youremail@example.com"
+          git config --global user.name "Lulu Cao"
+          git config --global user.email "lulu.cao.her@gmail.com"
           git add README.md
           git commit -m "Update profile README with a random picture"
           git push
