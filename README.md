@@ -16,6 +16,6 @@
 
 <!-- ### Recent blog posts -->
 
-{{IMAGE_URL}}
+�����ExifII*V^(i�fHH�0210�����0100������,ASCIIPicsum ID: 134��C		
 
 Meetings are indispensable when you don't want to do anything.
