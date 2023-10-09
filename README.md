@@ -16,3 +16,5 @@
 
 <!-- ### Recent blog posts -->
 <img src="https://picsum.photos/200/300/?random" alt="Random Image">
+Love is the master key that opens the gates of happiness.
+
