@@ -18,4 +18,5 @@
 
 A quote a day keeps a therapist away:
 
-{{QUOTE}}
+{{QUOTE}}Always seek out the seed of triumph in every adversity.
+Always seek out the seed of triumph in every adversity.
