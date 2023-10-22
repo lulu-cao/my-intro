@@ -1,5 +1,9 @@
 ### Hi, I'm Lulu 👋
 
+# 💫 Last Update
+<!-- DEFAULT-TAG:START -->
+<!-- DEFAULT-TAG:END -->
+
 😄 I work as a Full Stack Developer at Dimensional Innovations where I implement web designs and develop CMS and API.
 
 🍀 I'm volunteering as Curriculum Director for Kansas City Women in Technology, developing HTML, CSS, JavaScript and other curricula for beginning female and non-binary developers.
