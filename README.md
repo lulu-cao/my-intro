@@ -1,9 +1,8 @@
 ### Hi, I'm Lulu 👋
 
-# 💫 Last Update
-<!-- DEFAULT-TAG:START -->
-Sun  22 Oct 2023  22:14:09UTC
-<!-- DEFAULT-TAG:END -->
+<i><b>🚩 &nbsp; Last Update</b></i> &nbsp;<!-- LAST-UPDATE:START -->
+Sun  22 Oct 2023  01:12:44 UTC
+<!-- LAST-UPDATE:END -->
 
 😄 I work as a Full Stack Developer at Dimensional Innovations where I implement web designs and develop CMS and API.
 
