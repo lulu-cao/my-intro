@@ -12,6 +12,9 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Cinema Off Screen](https://www.goodreads.com/review/show/5848075414?utm_medium=api&utm_source=rss) by Zhou (⭐️3.75)
+- [Male Daughters, Female Husbands: Gender and Sex in an African Society (Critique Influence Change)](https://www.goodreads.com/review/show/4051370454?utm_medium=api&utm_source=rss) by Ifi Amadiume (⭐️4)
+- [Private Government: How Employers Rule Our Lives (and Why We Don't Talk about It)](https://www.goodreads.com/review/show/4051370005?utm_medium=api&utm_source=rss) by Elizabeth S.  Anderson (⭐️3.99)
 <!-- GOODREADS-LIST:END -->
 
 <!-- ### Recent blog posts -->
