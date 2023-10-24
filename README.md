@@ -8,7 +8,9 @@
 
 ⚡ Fun fact: I studied philosophy for three years and co-founded a startup for a social media platform - [Symposia](https://www.projectsymposia.com/).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulu-cao&layout=compact)](https://github.com/lulu-cao/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulu-cao&layout=compact)](https://github.com/lulu-cao/github-readme-stats) -->
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
@@ -17,10 +19,7 @@
 - [Private Government: How Employers Rule Our Lives (and Why We Don't Talk about It)](https://www.goodreads.com/review/show/4051370005?utm_medium=api&utm_source=rss) by Elizabeth S.  Anderson (⭐️3.99)
 <!-- GOODREADS-LIST:END -->
 
-<!-- ### Recent blog posts -->
-<img src="https://picsum.photos/200/300/?random" alt="Random Image">
-Love is the master key that opens the gates of happiness.
-
+### My GitHub activities
 <p align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lulu-cao/lulu-cao/output-3d-contrib/night.svg" />
@@ -29,9 +28,6 @@ Love is the master key that opens the gates of happiness.
 	</picture>
 </p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<i><b>Last Update</b></i> &nbsp;
-<!-- LAST-UPDATE:START -->
-Mon  23 Oct 2023
-<!-- LAST-UPDATE:END -->
+<i><b>Last Updated at</b></i> &nbsp;<!-- LAST-UPDATE:START --><!-- LAST-UPDATE:END -->
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
