@@ -1,9 +1,5 @@
 ### Hi, I'm Lulu 👋
 
-<i><b>🚩 &nbsp; Last Update</b></i> &nbsp;<!-- LAST-UPDATE:START -->
-Mon  23 Oct 2023
-<!-- LAST-UPDATE:END -->
-
 😄 I work as a Full Stack Developer at Dimensional Innovations where I implement web designs and develop CMS and API.
 
 🍀 I'm volunteering as Curriculum Director for Kansas City Women in Technology, developing HTML, CSS, JavaScript and other curricula for beginning female and non-binary developers.
@@ -14,9 +10,9 @@ Mon  23 Oct 2023
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulu-cao&layout=compact)](https://github.com/lulu-cao/github-readme-stats)
 
-<!-- ### Some Interesting Blog Posts -->
-<!--posts:start-->
-<!--posts:end-->
+### Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 <!-- ### Recent blog posts -->
 <img src="https://picsum.photos/200/300/?random" alt="Random Image">
@@ -31,3 +27,8 @@ Love is the master key that opens the gates of happiness.
 </p>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+<i><b>Last Update</b></i> &nbsp;
+<!-- LAST-UPDATE:START -->
+Mon  23 Oct 2023
+<!-- LAST-UPDATE:END -->
