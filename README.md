@@ -10,14 +10,14 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulu-cao&layout=compact)](https://github.com/lulu-cao/github-readme-stats) -->
 ### My GitHub activities
-<!-- <p align="center">
+<p align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lulu-cao/lulu-cao/output-3d-contrib/night.svg" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lulu-cao/lulu-cao/output-3d-contrib/day.svg" />
 	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/lulu-cao/lulu-cao/output-3d-contrib/day.svg" />
 	</picture>
-</p> -->
-![](./profile-3d-contrib/profile-night-green.svg)
+</p>
+<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
@@ -28,6 +28,6 @@
 
 <!--STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
-<i><b>Last Updated at</b></i> &nbsp;<!-- LAST-UPDATE:START -->
+<i><b>Last Updated at</b></i>&nbsp;<!-- LAST-UPDATE:START -->
 Mon  23 Oct 2023
 <!-- LAST-UPDATE:END -->
