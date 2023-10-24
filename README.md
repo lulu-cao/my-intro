@@ -22,3 +22,12 @@ Mon  23 Oct 2023
 <img src="https://picsum.photos/200/300/?random" alt="Random Image">
 Love is the master key that opens the gates of happiness.
 
+<p align="center">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lulu-cao/lulu-cao/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lulu-cao/lulu-cao/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/lulu-cao/lulu-cao/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
