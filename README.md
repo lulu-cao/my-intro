@@ -2,7 +2,7 @@
 
 😄 I work as a Full Stack Developer at Dimensional Innovations where I implement web designs and develop CMS and API.
 
-🍀 I'm volunteering as Curriculum Director for Kansas City Women in Technology, developing HTML, CSS, JavaScript and other curricula for beginning female and non-binary developers.
+🍀 I'm volunteering as Curriculum Director for Kansas City Women in Technology, developing curricula on HTML, CSS, JavaScript, and GitHub Profile for beginning female and non-binary developers.
 
 🌱 I volunteered with KC Digital Drive and completed a [TrashTracker](https://github.com/codeforkansascity/TrashTrackerWebApp) project to track community reports of illegal dumping.
 
