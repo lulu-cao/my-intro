@@ -31,3 +31,4 @@
 <i><b>Last Updated at</b></i>&nbsp;<!-- LAST-UPDATE:START -->
 Wed  08 Nov 2023
 <!-- LAST-UPDATE:END -->
+<img src="https://picsum.photos/200/300/?random" alt="Random Image">
