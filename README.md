@@ -21,7 +21,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [死神永生 (三体, #3)](https://www.goodreads.com/review/show/5995145113?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.54)
+- [死神永生 (三体, #3)](https://www.goodreads.com/review/show/5995145113?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.53)
 - [Cinema Off Screen](https://www.goodreads.com/review/show/5848075414?utm_medium=api&utm_source=rss) by Zhou (⭐️3.75)
 - [半生缘](https://www.goodreads.com/review/show/5771896605?utm_medium=api&utm_source=rss) by Eileen Chang (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
