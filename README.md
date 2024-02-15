@@ -2,9 +2,9 @@
 
 😄 I work as a Full Stack Developer at Dimensional Innovations where I implement web designs and develop CMS and API.
 
-🍀 I'm volunteering as Curriculum Director for Kansas City Women in Technology, developing curricula on HTML, CSS, JavaScript, and GitHub Profile for beginning female and non-binary developers.
+🍀 I'm volunteering as TechTalks Co-Director and Coding and Cocktails Curriculum Director for Kansas City Women in Technology, organizing monthly Tech Talks and developing curricula on CSS, JavaScript, and GitHub Action. I'm also volunteering for Women Who Code Python Track.
 
-🌱 I volunteered with KC Digital Drive and completed a [TrashTracker](https://github.com/codeforkansascity/TrashTrackerWebApp) project to track community reports of illegal dumping.
+🌱 I volunteered for the Code for KC program with KC Digital Drive and completed a [TrashTracker](https://github.com/codeforkansascity/TrashTrackerWebApp) project to track community reports of illegal dumping.
 
 ⚡ Fun fact: I studied philosophy for three years and co-founded a startup for a social media platform - [Symposia](https://www.projectsymposia.com/).
 
