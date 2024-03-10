@@ -23,7 +23,7 @@
 <!-- GOODREADS-LIST:START -->
 - [明朝那些事儿:洪武大帝](https://www.goodreads.com/review/show/6303212518?utm_medium=api&utm_source=rss) by 当年明月 (⭐️4.41)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/6004744150?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.17)
-- [死神永生 (三体, #3)](https://www.goodreads.com/review/show/5995145113?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.52)
+- [死神永生 (三体, #3)](https://www.goodreads.com/review/show/5995145113?utm_medium=api&utm_source=rss) by Liu Cixin (⭐️4.53)
 <!-- GOODREADS-LIST:END -->
 
 <!--STARTS_HERE_QUOTE_README-->
