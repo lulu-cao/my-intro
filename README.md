@@ -1,8 +1,8 @@
 ### Hi, I'm Lulu 👋
 
-😄 I work as a Full Stack Developer at Dimensional Innovations where I implement web designs and develop CMS and API.
+😄 I work as a Full Stack Developer at Dimensional Innovations where I implement web designs and develop CMS and API for various clients. My key clients include Kansas City International Airport, St. Louis Cardinals, Children's Healthcare of Atlanta, and the University of Nebraska.
 
-🍀 I'm volunteering as TechTalks Co-Director and Coding and Cocktails Curriculum Director for Kansas City Women in Technology, organizing monthly Tech Talks and developing curricula on CSS, JavaScript, and GitHub Action. I'm also volunteering for Women Who Code Python Track.
+🍀 I'm volunteering as TechTalks Program Director for Kansas City Women in Technology, connecting with local speakers and sponsors and organizing monthly Tech Talks. If you are interested in speaking or sponsoring, please contact me. I previously volunteered with them as Coding and Cocktails Curriculum Director, developing curricula on CSS, JavaScript, and GitHub Action.
 
 🌱 I volunteered for the Code for KC program with KC Digital Drive and completed a [TrashTracker](https://github.com/codeforkansascity/TrashTrackerWebApp) project to track community reports of illegal dumping.
 
