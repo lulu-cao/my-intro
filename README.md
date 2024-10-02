@@ -21,7 +21,7 @@
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
-- [废都](https://www.goodreads.com/review/show/6390343304?utm_medium=api&utm_source=rss) by 贾平凹 (⭐️3.12)
+- [废都](https://www.goodreads.com/review/show/6390343304?utm_medium=api&utm_source=rss) by 贾平凹 (⭐️3.14)
 - [明朝那些事儿:洪武大帝](https://www.goodreads.com/review/show/6303212518?utm_medium=api&utm_source=rss) by 当年明月 (⭐️4.43)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/6004744150?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.14)
 <!-- GOODREADS-LIST:END -->
